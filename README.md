@@ -13,6 +13,7 @@
     <td valign="top">
       <ul style="list-style: none; font-size: 18px;">
         <li> I'm a Junior Front-End Developer.</li>
+        <li> My main development stack is React, but I know a bit about Vue.</li>
         <li> Learning to write cleaner code and improve my skills.</li>
         <li> Collecting a portfolio that I'm not ashamed to show people.</li>
         <li>😺I love cats.💃</li>
