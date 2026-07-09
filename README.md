@@ -33,8 +33,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## My Projects Demo 📽️🎞️
+React
 - [🚀 Color-Customizer](https://sheviott.github.io/) >>> [Github](https://github.com/Sheviott/sheviott.github.io)
+
+Vue
 - [🚀 VueNotes](https://vue-notes-iota.vercel.app/) >>> [Github](https://github.com/Sheviott/VueNotes)
+- [🚀 VueAnimeCatalog](https://anime-database-vue-u967.vercel.app/#/) >>> [Github](https://github.com/Sheviott/AnimeDatabaseVue)
 
 ## Contacts :mailbox:
 
