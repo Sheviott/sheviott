@@ -32,7 +32,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## My Projects Demo 📽️🎞️
-[🚀 Color-Customizer](https://sheviott.github.io/)
+- [🚀 Color-Customizer](https://sheviott.github.io/) >>> [Github](https://github.com/Sheviott/sheviott.github.io)
+- [🚀 VueNotes](https://vue-notes-iota.vercel.app/) >>> [Github](https://github.com/Sheviott/VueNotes)
 
 ## Contacts :mailbox:
 
