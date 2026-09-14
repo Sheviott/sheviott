@@ -34,7 +34,7 @@
 
 ## My Projects Demo 📽️🎞️
 React
-- [🚀 Color-Customizer](https://sheviott.github.io/) >>> [Github](https://github.com/Sheviott/sheviott.github.io)
+- [🚀 Color-Customizer](https://color-customizer-beryl.vercel.app/) >>> [Github](https://github.com/Sheviott/Color-Customizer)
 
 Vue
 - [🚀 VueNotes](https://vue-notes-iota.vercel.app/) >>> [Github](https://github.com/Sheviott/VueNotes)
